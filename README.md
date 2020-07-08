@@ -1,4 +1,4 @@
-# manual
+# hugoX-biz
 
 ## Project setup
 ```
